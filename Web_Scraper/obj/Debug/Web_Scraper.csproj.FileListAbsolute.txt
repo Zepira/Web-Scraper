@@ -1,0 +1,11 @@
+C:\Users\Pat\OneDrive\Documents\Coding\Web_Scraper\Web_Scraper\bin\Debug\Web_Scraper.exe.config
+C:\Users\Pat\OneDrive\Documents\Coding\Web_Scraper\Web_Scraper\bin\Debug\Web_Scraper.exe
+C:\Users\Pat\OneDrive\Documents\Coding\Web_Scraper\Web_Scraper\bin\Debug\Web_Scraper.pdb
+C:\Users\Pat\OneDrive\Documents\Coding\Web_Scraper\Web_Scraper\bin\Debug\WebDriver.dll
+C:\Users\Pat\OneDrive\Documents\Coding\Web_Scraper\Web_Scraper\bin\Debug\WebDriver.Support.dll
+C:\Users\Pat\OneDrive\Documents\Coding\Web_Scraper\Web_Scraper\bin\Debug\WebDriver.xml
+C:\Users\Pat\OneDrive\Documents\Coding\Web_Scraper\Web_Scraper\bin\Debug\WebDriver.Support.xml
+C:\Users\Pat\OneDrive\Documents\Coding\Web_Scraper\Web_Scraper\obj\Debug\Web_Scraper.csprojResolveAssemblyReference.cache
+C:\Users\Pat\OneDrive\Documents\Coding\Web_Scraper\Web_Scraper\obj\Debug\Web_Scraper.csproj.CoreCompileInputs.cache
+C:\Users\Pat\OneDrive\Documents\Coding\Web_Scraper\Web_Scraper\obj\Debug\Web_Scraper.exe
+C:\Users\Pat\OneDrive\Documents\Coding\Web_Scraper\Web_Scraper\obj\Debug\Web_Scraper.pdb
